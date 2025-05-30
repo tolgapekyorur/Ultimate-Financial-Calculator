@@ -1,51 +1,98 @@
-Privacy Policy for Ultimate Financial Calculator - All-in-One Finance Toolkit
+Here is your **updated Privacy Policy** for *Ultimate Financial Calculator - All-in-One Finance Toolkit*, revised to reflect the inclusion of Facebook SDK, App Tracking Transparency (ATT), and event logging, while remaining compliant with App Store requirements and privacy standards:
 
-Effective Date: August 1st, 2024
+---
 
-1. Introduction
+## **Privacy Policy for Ultimate Financial Calculator – All-in-One Finance Toolkit**
 
-Welcome to Ultimate Financial Calculator - All-in-One Finance Toolkit ("we," "our," or "us"). We are committed to protecting your privacy and providing a safe, useful experience for all our users. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application.
+**Effective Date: May 30, 2025**
 
-2. Information We Collect
+### **1. Introduction**
 
-Our app is designed to respect your privacy. We do not collect any personal information unless it is necessary for the functionality of the app. The information we may collect includes:
+Welcome to *Ultimate Financial Calculator – All-in-One Finance Toolkit* (“we,” “our,” or “us”). We are committed to protecting your privacy and providing a transparent, secure, and user-focused experience. This Privacy Policy explains how we collect, use, and protect your information when using our mobile application.
 
-a) User-Provided Data: Any financial data you input into the calculators for the purpose of performing calculations. This data is stored locally on your device using SwiftData and is not transmitted to our servers.
+---
 
-b) Usage Data: We may collect anonymous usage statistics to improve the app's performance and user experience. This data does not identify individual users.
+### **2. Information We Collect**
 
-3. How We Use Your Information
+Our app is designed with privacy as a priority. We collect only the minimum amount of information required to support core functionality, analytics, and personalized experiences.
 
-We use the information collected solely for the purpose of providing and improving our service:
+#### a) **User-Provided Data**
 
-a) To perform calculations based on the data you input
-b) To save your favorite calculations locally on your device
-c) To analyze app usage patterns and improve our features
+All financial data you input (e.g., amounts, interest rates, terms) is used **solely for calculations** and is **stored locally** on your device using **SwiftData**. This data is never transmitted to external servers or shared with us.
 
-4. Data Storage and Security
+#### b) **Usage Analytics**
 
-All user-provided data is stored locally on your device using SwiftData. We do not have access to this data, nor is it transmitted to our servers or any third parties.
+We collect **anonymous usage data** through **Meta (Facebook) App Events** SDK to understand app engagement and retention. This includes:
 
-5. Third-Party Services
+* Calculator usage events (e.g., “favorite\_added”)
+* Session activity (e.g., app open, 3-minute session)
+* Retention-related events (e.g., repeat sessions, streaks)
 
-Our app does not integrate with any third-party services that would have access to your data.
+This data helps us improve the app's functionality and experience without identifying you personally.
 
-6. Children's Privacy
+#### c) **App Tracking Transparency (ATT)**
 
-Our app is not directed to children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe that your child has provided us with personal information, please contact us.
+We request your permission via Apple’s ATT framework to enable personalized ads and analytics via Meta SDK. If you decline, no identifier-based tracking is performed.
 
-7. Changes to This Privacy Policy
+---
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Effective Date" at the top of this policy.
+### **3. How We Use Your Information**
 
-8. Your Rights
+We use collected information to:
 
-As all data is stored locally on your device, you have full control over your data. You can delete all data associated with the app by deleting the app from your device.
+* Execute financial calculations based on your input
+* Allow favoriting calculators (stored locally)
+* Log anonymous usage events for analytics and future product improvements
+* Respect ATT preferences and user consent
 
-9. Contact Us
+We **do not** use or sell your data for advertising targeting purposes within the app.
 
-If you have any questions about this Privacy Policy, please contact us at:
+---
 
-tolgapekyorur@gmail.com
+### **4. Data Storage and Security**
+
+* All inputted data is stored **on-device only** and **never uploaded**.
+* App usage logs collected via Facebook SDK are **anonymized and aggregated**.
+* We do not operate servers, and we do not have access to any personal financial information.
+
+---
+
+### **5. Third-Party Services**
+
+We use the **Facebook SDK (Meta SDK)** for:
+
+* Anonymous analytics and event tracking
+* Conversion measurement (SKAdNetwork)
+* Integration with Facebook Ad platforms (if authorized)
+
+These services may collect and use **device-level identifiers** only with your ATT consent. All SDK configurations are compliant with Apple’s privacy manifest requirements.
+
+---
+
+### **6. Children's Privacy**
+
+This app is **not intended for children under the age of 13**. We do not knowingly collect or store personal information from children. If you believe your child has used the app inappropriately, please contact us.
+
+---
+
+### **7. Your Rights and Control**
+
+* You may **opt out** of tracking at any time by updating your **device’s ATT settings**.
+* You may delete all saved data by **uninstalling the app**.
+* You control access to your data, as we do not store or sync anything externally.
+
+---
+
+### **8. Changes to This Privacy Policy**
+
+We may update this policy to reflect improvements, SDK changes, or legal compliance. Updates will be posted on this page with a revised **“Effective Date.”** You are encouraged to review this policy periodically.
+
+---
+
+### **9. Contact Us**
+
+For questions or concerns about this policy or your data rights, please contact:
+
+📧 **[tolgapekyorur@gmail.com](mailto:tolgapekyorur@gmail.com)**
 
 ---
